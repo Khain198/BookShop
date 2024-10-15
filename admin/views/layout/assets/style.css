@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+/* HEADER */
+.header {
+    color: white;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 30px;
+}
+
+/* BODY */
+.body {
+    /* background-color: yellow; */
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse; /*???*/
+}
+
+table {
+    width: 80%;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td, th {
+    /* padding-left: 15px;
+    padding-right: 15px; */
+}
+
+/* FOOTER */
+.footer {
+    color: white;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    margin-top: 30px;
+}
